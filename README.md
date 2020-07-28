@@ -1,2 +1,2 @@
-# ecommerce-site-backend-noode.ja
+# ecommerce-site-backend-noode.js
 admin authentication for inserting brand, category and product
